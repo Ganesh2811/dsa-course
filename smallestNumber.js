@@ -1,4 +1,4 @@
-// write an function that returns the largest number in an array
+// write an function that returns the smallest number in an array
 
 
 let arr = [5, 0, 10, 8, 17, 1];

@@ -14,3 +14,4 @@ function negativeNumber(arr){}{
     
 }
 
+console.log(negativeNumber(arr));
