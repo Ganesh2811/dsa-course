@@ -79,23 +79,23 @@ console.log(binearySearch(arr, target));
 
 // O(n!)
 
-// function permute(str, l, r) {
-//     if (l === r) {
-//         console.log(str);
-//     } else {
-//         for (let i = l; i <= r; i++) {
-//             str = swap(str, l, i);
-//             permute(str, l + 1, r);
-//             str = swap(str, l, i); 
-//         }
-//     }
-// }
+function permute(str, l, r) {
+    if (l === r) {
+        console.log(str);
+    } else {
+        for (let i = l; i <= r; i++) {
+            str = swap(str, l, i);
+            permute(str, l + 1, r);
+            str = swap(str, l, i); 
+        }
+    }
+}
 
-// function swap(str, i, j) {
-//     let arr = str.split('');
-//     [arr[i], arr[j]] = [arr[j], arr[i]];
-//     return arr.join('');
-// }
+function swap(str, i, j) {
+    let arr = str.split('');
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+    return arr.join('');
+}
 
-// const str = "ABC";
-// permute(str, 0, str.length - 1);
+const str = "ABC";
+permute(str, 0, str.length - 1);
