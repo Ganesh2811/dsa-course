@@ -3,6 +3,11 @@
 
 // Infinite Recursion leads to stack overflow
 
+// when to use recursion
+// 1. Problem can be broken into sub problem
+// 2. Trees & Graphs
+// 3. Backtracking, DP, Divide & conquer 
+
 // n = n - 1
 // print(n)
 // print( --n)
