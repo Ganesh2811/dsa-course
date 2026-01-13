@@ -5,3 +5,4 @@ function sumOfArray(num){
     return arr[num] + sumOfArray(num - 1);
 }
 console.log(sumOfArray(arr.length - 1));
+
