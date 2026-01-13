@@ -5,7 +5,7 @@
 // }
 
 // O(1)
-
+// o(n)
 // Accessing 5th index element
 // const value = arr[5];
 
