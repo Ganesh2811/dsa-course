@@ -32,5 +32,6 @@ function merge(left, right){
     return [...result,...left.slice(i),...right.slice(j)];
 }
 // Time complexity is n (log n);
-// merge -> n divide-> log n 
+// merge -> n divide-> log n
+// Space complexity is O(n); 
 
