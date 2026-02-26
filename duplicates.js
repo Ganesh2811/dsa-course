@@ -5,7 +5,7 @@ const freq = {};
 const duplicates = [];
 
 for (const num of arr) {
-  freq[num] = (freq[num] || 0) + 1;
+  freq[num] = freq[num] ? freq[num] + 1 : 1;
 }
 
 for (const key in freq) {
