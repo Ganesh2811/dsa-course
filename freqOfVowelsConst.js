@@ -4,7 +4,7 @@ function maxFreq(s){
     const freq = {}
 
     for(let char of s){
-        freq[char] = ( freq[char] || 0 ) + 1;
+        freq[char] = freq[char] ? freq[char] + 1: 1;
     }
 
     let maxVowelsFreq = 0;
