@@ -1,4 +1,4 @@
-var secondHighest = function(s) {
+function secondHighest(s) {
     let firstLargest = -1;
     let secondLargest = -1;
     for( let ch of s){
@@ -15,3 +15,6 @@ var secondHighest = function(s) {
     } 
     return secondLargest;
 };
+
+let arr = [5, 0, 10, 8, 17, 1];
+console.log(secondHighest(arr));
