@@ -8,11 +8,11 @@ function maxSum(arr, k){
     }
     maxSum = windowSum;
     for(let i = k; i < arr.length; i++){
+        // New Window = Old Window - element going out + element coming in
         windowSum = windowSum - arr[i - k] + arr[i];
         maxSum = Math.max(maxSum, windowSum)
     }
     return maxSum;
-
 }
 const array = [2, 1, 5, 1, 3, 2];
-console.log(maxSum(array, 3))
+console.log(maxSum(array, 3));

@@ -4,7 +4,7 @@
 const string = "aabbcc";
 
 function nonRepeatingChar(str){
-    let obj = {}
+    let obj = {};
     for(let char of str){
         obj[char] = obj[char] ? obj[char] + 1 : 1;
     }
@@ -13,7 +13,7 @@ function nonRepeatingChar(str){
             return key;
         }
     }
-    return -1
+    return -1;
 }
 
-console.log(nonRepeatingChar(string))
+console.log(nonRepeatingChar(string));
