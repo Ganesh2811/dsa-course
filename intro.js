@@ -1,0 +1,1 @@
+// JavaScript is neither purely interpreted nor purely compiled. Modern JavaScript engines use Just-In-Time (JIT) compilation, where the code is first interpreted and then compiled into optimized machine code during execution.
