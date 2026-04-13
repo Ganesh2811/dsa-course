@@ -1,5 +1,5 @@
 // delay the execution of the event
-// executes rapidly triggered events
+// executes rapidly triggered events for example input search event
 
 // Debounce function
 function debounce(func, delay) {
