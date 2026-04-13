@@ -19,5 +19,5 @@ function search(query) {
 const dSearch = debounce(search, 100);
 
 dSearch('Hello');
-dSearch('Hello, ');
-dSearch('Hello, World!');  
+// dSearch('Hello, ');
+// dSearch('Hello, World!');  
