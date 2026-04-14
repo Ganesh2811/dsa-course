@@ -7,7 +7,8 @@ function secondLargest(arr){
     if(arr.length < 2){
         return "Array should have an more than 1 element"
     }
-
+    // [10, 5, 8, 20, 15, 18]
+    
     for(let i = 0; i < arr.length; i++){
         if(arr[i] > largest){
             secondLargest = largest;
