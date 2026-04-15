@@ -1,2 +1,3 @@
-# dsa-course
-learning dsa
+I started my career at Teknopoint, where I built a strong foundation in frontend technologies like HTML, CSS, JavaScript, and worked on multiple UI projects.
+Later, I moved to Vernost to expand my skills into modern frameworks and backend technologies. I worked extensively with React and gained exposure to Node.js.
+Now, I’m looking for opportunities where I can contribute as a full stack developer and work on more scalable and challenging projects.
