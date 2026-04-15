@@ -6,7 +6,7 @@ function maxFreq(s){
     for(let char of s){
         freq[char] = freq[char] ? freq[char] + 1: 1;
     }
-
+    console.log(freq)
     let maxVowelsFreq = 0;
     let maxConstFreq = 0;
 
@@ -18,8 +18,7 @@ function maxFreq(s){
             maxConstFreq = Math.max(maxConstFreq, freq[char])
         }
     }
-    return maxVowelsFreq + maxConstFreq;
-
+    return maxConstFreq;
 }
 
 

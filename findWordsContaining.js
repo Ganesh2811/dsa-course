@@ -12,6 +12,6 @@ function findWordsContaining(words, x) {
     return result;
 };
 
-const words = ["leet", "code"];
-const x= "e"
+const words = ["", "code", "ganseeh", "rutik"];
+const x= "e";
 console.log(findWordsContaining(words, x));
