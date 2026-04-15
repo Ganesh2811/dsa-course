@@ -21,3 +21,20 @@ react js make it to strong
 node js make it as beginner level
 mysql -> make yourself as write a basic query
 dsa -> problem solving majorly focus on arrays and strings
+
+
+plan of action:
+
+15 April :
+Js fundamentals, problem solving (array, string) and langchain basic(open AI).
+
+16 April: 
+React fundamentals, scenario based question, problem solving.
+
+17 April:
+Nodejs learning and revison and mysql with solve some query.
+
+18 April:
+Rag with parveez
+
+
