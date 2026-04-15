@@ -1,4 +1,5 @@
-Hi, my name is Ganesh Pawar. I have around 3 years of experience in software development.
+Hi, firstly thank you for giving me oppunity to intriduce myself. 
+My name is Ganesh Pawar. I have around 3 years of experience in software development.
 
 I started my career at Teknopoint as a Junior Developer, where I worked primarily on frontend technologies like HTML, CSS, SCSS, JavaScript, and jQuery. During my time there, I worked on multiple projects focused on UI development and built a strong foundation in web development.
 
