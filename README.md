@@ -35,6 +35,4 @@ React fundamentals, scenario based question, problem solving.
 Nodejs learning and revison and mysql with solve some query.
 
 18 April:
-Rag with parveez
-
-
+Rag with parveez.
