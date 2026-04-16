@@ -32,7 +32,7 @@ Js fundamentals, problem solving (array, string) and langchain basic(open AI).
 React fundamentals, scenario based question, problem solving.
 
 17 April:
-Nodejs learning and revison and mysql with solve some query.
+Nodejs learning, scenario based question of node js, mysql and it's query and mongoDB basics.
 
 18 April:
 Rag with parveez.
