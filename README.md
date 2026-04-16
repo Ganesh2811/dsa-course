@@ -19,9 +19,10 @@ My focus on:
 Js Fundatmentals make it to strong
 reactjs make it to strong
 nodejs make it as beginner level
-mysql -> make yourself as write a basic query
-dsa -> problem solving majorly focus on arrays and strings
-system design basics --> low level design vs high level design
+mysql - make yourself as write a basic query
+dsa - problem solving majorly focus on arrays and strings
+system design basics - low level design vs high level design
+DSA - Arrays & Strings
 
 plan of action:
 15 April :
