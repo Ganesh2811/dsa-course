@@ -33,6 +33,4 @@ prmisefullfilled().then((data) => console.log(data));
 // Promise.race()
 // Promise.race() Method resolves or rejects as soon as the first promise settles.
 
-
-
 // Promise.any()

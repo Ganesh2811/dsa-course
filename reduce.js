@@ -18,5 +18,3 @@ const grouped = users.reduce((acc, curr) => {
 }, {});
 
 console.log(grouped);
-
-
